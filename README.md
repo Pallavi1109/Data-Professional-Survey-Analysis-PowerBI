@@ -124,28 +124,6 @@ Visualizes:
 * A significant percentage of professionals successfully transitioned into data careers from non-technical backgrounds.
 * Salary satisfaction varies considerably across roles and regions.
 
----
-
-## Files Included
-
-Dashboard.pbix – Power BI Dashboard
-
-Power BI - Final Project.xlsx – Source Dataset
-
-Documentation Folder – Project Documentation
-
-Screenshots Folder – Dashboard Images
-
----
-
-## How to Use
-
-1. Download the repository.
-2. Open Dashboard.pbix using Power BI Desktop.
-3. Refresh the dataset connection if required.
-4. Explore interactive filters and visualizations.
-
----
 
 ## Skills Demonstrated
 
